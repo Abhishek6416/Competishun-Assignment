@@ -51,9 +51,9 @@ function App() {
       */}
 
 
-              {/* <button><h3>Movies</h3></button>
+              <button><h3>Movies</h3></button>
               <button><h3>WatchList</h3></button>
-              <button><h3>Favourites</h3></button> */}
+              <button><h3>Favourites</h3></button>
 
               {/* </Routes> */}
             </>
