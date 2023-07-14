@@ -13,8 +13,8 @@ https://deployed-site.whatever
 ## Features
 List out the key features of your application.
 
-- Feature 1
-- Feature 2
+- Firebase authentication
+- go thorugh bottom movies,watchlist,favourites
 - Feature 3
 
 ## design decisions or assumptions
