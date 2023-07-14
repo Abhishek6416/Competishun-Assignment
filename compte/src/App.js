@@ -27,6 +27,7 @@ function App() {
   return (
     <div className="wrapper">
       <div className='box'>
+      <h3>Login with Firebase</h3>
           {user?(
             <>
               <button className='btn btn-secondary btn-md'
@@ -42,19 +43,19 @@ function App() {
               <div className='photo'>
                 <img src={user.photoURL} alt="dp" referrerPolicy='no-referrer'/>
               </div>
-              <Routes>
+              {/* <Routes>
 
               <Route path='/movies' element={<Movies/>}/>
                <Route path='/watchlist' element={<Watchlist/>}/>
                   <Route path='/favourites' element={<Favourites/>}/>
-     
+      */}
 
 
               {/* <button><h3>Movies</h3></button>
               <button><h3>WatchList</h3></button>
               <button><h3>Favourites</h3></button> */}
 
-              </Routes>
+              {/* </Routes> */}
             </>
           ):(
             <button className='btn btn-danger btn-md'
