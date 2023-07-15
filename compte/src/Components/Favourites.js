@@ -5,6 +5,7 @@ export default function Favourites() {
     <div>
 
         <h1>Favourites</h1>
+        
     </div>
   )
 }
