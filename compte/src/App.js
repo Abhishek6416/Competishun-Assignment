@@ -60,7 +60,7 @@ function App() {
           ):(
             <button className='btn btn-danger btn-md'
               onClick={handleGoogleSignIn}>
-              Sign In With Google
+              Sign In With Google.com
             </button>  
           )} 
       </div>
