@@ -36,7 +36,7 @@ Provide instructions and examples on how to use your project.
 # Example
 ```
 
-Include screenshots as necessary.
+Include screenshots.
 
 ## APIs Used
 If your application relies on external APIs, document them and include any necessary links or references.
