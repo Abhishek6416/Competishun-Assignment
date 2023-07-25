@@ -17,7 +17,7 @@ List out the key features of your application.
 - go thorugh bottom movies,watchlist,favourites
 - Feature 3
 
-## design decisions or assumptions
+## design decision or assumptions
 List your design desissions & assumptions
 
 ## Installation
